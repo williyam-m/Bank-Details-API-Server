@@ -14,6 +14,7 @@ class BankListAPIView(APIView):
 
     def get(self, request):
         branch_name = request.GET.get('branch_name')
+        branches = []
         if branch_name:
             branches = Branch.objects.filter(branch=branch_name)
 

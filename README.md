@@ -1,4 +1,4 @@
-**Live Link :** https://bankdetailsapiserver.pythonanywhere.com/  (Deployed on Cloud)
+**Live Link : https://bankdetailsapiserver.pythonanywhere.com/**
 
 
 ## This API Server was built using the following steps:
